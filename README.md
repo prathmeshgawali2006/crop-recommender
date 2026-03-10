@@ -240,8 +240,22 @@ python src/predict.py
 
 
 
----
 
+---
+### 6. Open the Web Interface (Optional)
+
+Simply open `index.html` in any browser — no server needed!
+```bash
+# Windows
+start index.html
+
+# Mac
+open index.html
+```
+
+The web UI lets you enter values and get recommendations visually with confidence bars and alternative crops.
+
+---
 
 
 \## 🌱 Example Usage
